@@ -2,12 +2,12 @@
 ## Beginner
 ### Data Types
 - [ ] Lists
-- [ ] Strings
+- [x] Strings
 - [ ] Tuples
 - [ ] Sets
-- [ ] Floats
-- [ ] Ints
-- [ ] Booleans
+- [x] Floats
+- [x] Ints
+- [x] Booleans
 - [ ] Dictionaries
 ### Control Flow/Looping
 - [ ] for loops
