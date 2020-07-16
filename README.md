@@ -1,5 +1,5 @@
-# Roadmap Python <h1>
-## Beginner <h2>
+# Roadmap Python
+## Beginner
 ### Data Types
 - [ ] Lists
 - [ ] Strings
