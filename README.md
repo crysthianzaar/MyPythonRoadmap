@@ -1,7 +1,7 @@
 # Roadmap Python
 ## Beginner
 ### Data Types
-- [ ] Lists
+- [x] Lists
 - [x] Strings
 - [ ] Tuples
 - [ ] Sets
