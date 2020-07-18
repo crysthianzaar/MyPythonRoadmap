@@ -10,7 +10,7 @@
 - [x] Booleans
 - [x] Dictionaries
 ### Control Flow/Looping
-- [ ] for loops
+- [x] for loops
 - [ ] while loops
 - [ ] if/elif/else
 ### Arithmetic and expressions
