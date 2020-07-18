@@ -3,12 +3,12 @@
 ### Data Types
 - [x] Lists
 - [x] Strings
-- [ ] Tuples
-- [ ] Sets
+- [x] Tuples
+- [x] Sets
 - [x] Floats
 - [x] Ints
 - [x] Booleans
-- [ ] Dictionaries
+- [x] Dictionaries
 ### Control Flow/Looping
 - [ ] for loops
 - [ ] while loops
