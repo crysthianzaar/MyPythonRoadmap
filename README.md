@@ -11,26 +11,26 @@
 - [x] Dictionaries
 ### Control Flow/Looping
 - [x] for loops
-- [ ] while loops
-- [ ] if/elif/else
+- [x] while loops
+- [x] if/elif/else
 ### Arithmetic and expressions
-- [ ] Arithmetic and expressions
+- [x] Arithmetic and expressions
 ### I/O (Input/Output)
 - [ ] Sys module
 - [ ] Standard input/output
 - [ ] Reading/writing files
 ### Functions
-- [ ] Functions
+- [x] Functions
 ### Exceptions and Error Handling
-- [ ] Exceptions and Error Handling
+- [x] Exceptions and Error Handling
 ### Basics of object oriented programming (OOP) (Simple classes).
-- [ ] Basics of object oriented programming (OOP)
+- [x] Basics of object oriented programming (OOP)
   
 ___________________________________________________________________
   
 ## Intermediate
-- [ ] Recursion
-- [ ] Regular Expressions
+- [x] Recursion
+- [x] Regular Expressions
 ### More advanced OOP
 - [ ] Inheritance
 - [ ] Polymorphism
@@ -89,22 +89,22 @@ ______________________________________________________________
 
 ## Advanced - Full stack web development
 
-- [ ] Computer networks (Don't need to go into heavy detail but an understanding is necessary)
+- [x] Computer networks (Don't need to go into heavy detail but an understanding is necessary)
 ### Backend web dev tools (This is for app logic and interfacing with databases etc).
-- [ ] Flask
-- [ ] Django
+- [x] Flask
+- [x] Django
 ### Front end framework (This is for communicating with the backend)
 - [ ] Angular 6+
 - [ ] React/Redux (These are libraries not frameworks but most consider them a framework)
 ### With frontend you'll also need
-- [ ] HTML
-- [ ] CSS
-- [ ] Javascript (also good to learn typescript which is used in angular. It makes writing Javascript nicer).
+- [x] HTML
+- [x] CSS
+- [x] Javascript (also good to learn typescript which is used in angular. It makes writing Javascript nicer).
 ###vRelational database (Pick one and learn it, they're all quite similar)
-- [ ] MySQL
-- [ ] PostgreSQL
+- [x] MySQL
+- [x] PostgreSQL
 ### Non-relational
-- [ ] MongoDB
+- [x] MongoDB
 - [ ] Apache Cassandra (Wide-Column)
 ### Caching Systems
 - [ ] MemcacheD
