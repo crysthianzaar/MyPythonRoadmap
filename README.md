@@ -16,9 +16,9 @@
 ### Arithmetic and expressions
 - [x] Arithmetic and expressions
 ### I/O (Input/Output)
-- [ ] Sys module
-- [ ] Standard input/output
-- [ ] Reading/writing files
+- [x] Sys module
+- [x] Standard input/output
+- [x] Reading/writing files
 ### Functions
 - [x] Functions
 ### Exceptions and Error Handling
@@ -32,25 +32,25 @@ ___________________________________________________________________
 - [x] Recursion
 - [x] Regular Expressions
 ### More advanced OOP
-- [ ] Inheritance
-- [ ] Polymorphism
-- [ ] Encapsulation
+- [x] Inheritance
+- [x] Polymorphism
+- [x] Encapsulation
 - [ ] Method overloading
 ### Data Structures
-- [ ] Linked lists
-- [ ] Stacks, Queues
-- [ ] Binary Search Trees
+- [x] Linked lists
+- [x] Stacks, Queues
+- [x] Binary Search Trees
 - [ ] AVL Trees
 - [ ] Graphs
 - [ ] Minimum Spanning Trees
 - [ ] Hash Maps
 - [ ] Algorithms
-- [ ] Linear Search
-- [ ] Binary Search
-- [ ] Hashing
+- [x] Linear Search
+- [x] Binary Search
+- [x] Hashing
 - [ ] Quicksort
-- [ ] Insertion/Selection Sort
-- [ ] Merge Sort
+- [x] Insertion/Selection Sort
+- [x] Merge Sort
 - [ ] Radix Sort
 - [ ] Depth First Search
 - [ ] Breadth First Search
@@ -108,8 +108,8 @@ ______________________________________________________________
 - [ ] Apache Cassandra (Wide-Column)
 ### Caching Systems
 - [ ] MemcacheD
-- [ ] Redis
+- [x] Redis
 ### Cloud Computing (Knowledge of cloud computing is important nowadays)
-- [ ] AWS (Offers the most services and has a 1 year free tier)
+- [x] AWS (Offers the most services and has a 1 year free tier)
 - [ ] Google Cloud
 - [ ] Azure
